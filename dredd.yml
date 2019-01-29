@@ -1,7 +1,7 @@
 reporter: apiary
 custom:
-  apiaryApiKey: 
-  apiaryApiName: 
+  apiaryApiKey: 427e9e46461e8037c83dad987d997aba
+  apiaryApiName: ohseokjae
 dry-run: null
 hookfiles: null
 language: nodejs
